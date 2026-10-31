@@ -15,4 +15,4 @@ Swift · SwiftUI · Flutter · Dart · BLoC · Clean Architecture · RevenueCat 
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/enesmeral2534) · [X](https://x.com/enesships) · enesmeral3425@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mehmetenesmeral) · [X](https://x.com/enesships) · enesmeral3425@gmail.com
