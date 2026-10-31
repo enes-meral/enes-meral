@@ -10,7 +10,7 @@ iOS developer building apps end-to-end, from idea to the App Store.
 - **Nur Vakti**: prayer times, Qur'an and a Duolingo-style learning module (Flutter). Coming soon to the App Store.
 
 **Open source**
-- **PaywallKit**: SwiftUI paywall components for iOS, built around App Store Review Guidelines. StoreKit 2, no dependencies. [GitHub](https://github.com/enes-meral/PaywallKit)
+- **PaywallKit**: SwiftUI paywall templates for iOS (vault, stories, comparison), built around App Store Review Guidelines. StoreKit 2, no dependencies. [GitHub](https://github.com/enes-meral/PaywallKit)
 
 **Stack**
 
