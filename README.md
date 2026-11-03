@@ -4,7 +4,7 @@ iOS developer building apps end-to-end, from idea to the App Store.
 
 **Shipped**
 - **Photo Renaissance AI**: AI photo restoration, aging and animation. Live in 15 languages. [App Store](https://apps.apple.com/app/id6764426090)
-- **Büyüteç (Magnifier: Read Aloud & Zoom)**: magnifier, OCR and text-to-speech for low-vision users (Swift / SwiftUI). Live in 13 languages. [App Store](https://apps.apple.com/app/id6803889076)
+- **Büyüteç (Magnifier: Read Aloud & Zoom)**: magnifier, OCR and text-to-speech for low-vision users (Swift / SwiftUI). Live in 22 languages. [App Store](https://apps.apple.com/app/id6803889076)
 
 **Building**
 - **Nur Vakti**: prayer times, Qur'an and a Duolingo-style learning module (Flutter). Coming soon to the App Store.
